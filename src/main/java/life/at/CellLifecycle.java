@@ -4,7 +4,7 @@ import net.serenitybdd.jbehave.SerenityStory;
 
 /**
  * Just a name convention :
- * - cell_lifecycle.story => CellLifecycle.java
+ * - cell_lifecycle.story => life.at.CellLifecycle.java
  *
  * */
 
